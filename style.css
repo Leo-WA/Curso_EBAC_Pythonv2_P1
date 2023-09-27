@@ -27,7 +27,7 @@ li {
 
 h1 {
     font-weight: 350;
-    font-family: 'Handjet', cursive;
+    font-family: 'Roboto', sans-serif;
 }
 
 h2 {
@@ -42,6 +42,7 @@ img {
 }
 
 p {
+    font-size: 20px;
     line-height: 20px;
     max-width: 500px;
     font-family: 'Handjet', cursive;
